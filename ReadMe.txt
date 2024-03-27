@@ -2,7 +2,6 @@ https://www.researchgate.net/profile/Hu-Chenshu/publication/328244255_Influences
 https://www.scielo.br/j/bjce/a/Nqd9V8m6y5zggQBSNMZzjSS/
 https://www.sciencedirect.com/science/article/pii/S258891331830005X
 https://www.researchgate.net/profile/Santanu-De-3/publication/356958032_An_experimental_investigation_of_high-ash_coal_gasification_in_a_pilot-scale_bubbling_fluidized_bed_reactor/links/61b73e184b318a6970db2442/An-experimental-investigation-of-high-ash-coal-gasification-in-a-pilot-scale-bubbling-fluidized-bed-reactor.pdf
-https://www.academia.edu/download/91200207/s13399-019-00567-220220918-1-1htjjuz.pdf
 https://dergipark.org.tr/en/download/article-file/2108086
 https://www.sciencedirect.com/science/article/am/pii/S030626192100413X
 https://www.sciencedirect.com/science/article/pii/S0196890423004168
@@ -17,6 +16,5 @@ https://www.researchgate.net/profile/Larry-Shadle/publication/302314470_Integrat
 https://eprints.whiterose.ac.uk/189112/1/Review_Clean%20Revision_6-30.pdf
 https://www.researchgate.net/profile/D-Mandal-3/publication/360517180_Kinetics_Analysis_of_Solid_State_Reaction_for_the_Synthesis_of_Lithium_Orthosilicate/links/6285ca5616563c59214fb7d5/Kinetics-Analysis-of-Solid-State-Reaction-for-the-Synthesis-of-Lithium-Orthosilicate.pdf#page=84
 https://cyberleninka.ru/article/n/determination-of-parameters-of-the-carbon-containing-materials-gasification-process-in-the-rotary-kiln-cooler-drum
-https://www.sciencedirect.com/science/article/pii/S0016236123033276
-https://link.springer.com/article/10.1007/s10494-023-00436-z
-https://www.academia.edu/download/97787221/preprint.pdf
+http://www.ijrms.com/olvolume4issue2/JMonisha-KandulaGopi-DasojiSwapna-BhukyaSriram-2.pdf
+https://repository.its.ac.id/93428/2/7007201005_Dissertation.pdf
